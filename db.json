@@ -1,0 +1,24 @@
+{
+"products" : [  
+[{"id":1,"name":"White-throated robin","category":"Yellow"},
+{"id":2,"name":"Thrasher, curve-billed","category":"Mauv"},
+{"id":3,"name":"Dragon, ornate rock","category":"Puce"},
+{"id":4,"name":"Quail, gambel's","category":"Violet"},
+{"id":5,"name":"Long-nosed bandicoot","category":"Indigo"},
+{"id":6,"name":"Cat, native","category":"Goldenrod"},
+{"id":7,"name":"Common grenadier","category":"Purple"},
+{"id":8,"name":"Collared lizard","category":"Aquamarine"},
+{"id":9,"name":"Eastern fox squirrel","category":"Yellow"},
+{"id":10,"name":"Dassie","category":"Fuscia"},
+{"id":11,"name":"Short-beaked echidna","category":"Orange"},
+{"id":12,"name":"Long-billed cockatoo","category":"Pink"},
+{"id":13,"name":"Agile wallaby","category":"Yellow"},
+{"id":14,"name":"Macaque, rhesus","category":"Red"},
+{"id":15,"name":"Laughing dove","category":"Green"},
+{"id":16,"name":"Genet, common","category":"Aquamarine"},
+{"id":17,"name":"European beaver","category":"Goldenrod"},
+{"id":18,"name":"Dove, rock","category":"Puce"},
+{"id":19,"name":"Wolf, timber","category":"Orange"},
+{"id":20,"name":"Snake, tiger","category":"Goldenrod"}]
+]
+}
